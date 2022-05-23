@@ -1,0 +1,33 @@
+body {
+	background-color: #DAD3C1;
+	color:  #555356;
+	font-family: Helvetica;
+	margin: 240px;
+	font-size: x-large;
+	background-image: src="images/background.jpg"
+}
+h1, h2, h3 {
+	font-family: 'Robotica', sans-serif;
+	color: #746B5A;
+	margin: 80px;
+
+}
+
+h1 {
+	color: #746B5A;
+    font-family: ui-serif;
+    font-weight: 100;
+    font-size: xxx-large;
+
+}
+
+a: hover {
+	color: black;
+}
+
+.container {
+	width: 700px;
+	margin: 40px;
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,01); 
+}
